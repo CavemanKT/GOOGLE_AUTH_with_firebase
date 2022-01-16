@@ -2,7 +2,7 @@
 ## create .env file
 
 and set the environment variables
-
+```
 YOUTUBE_API_KEY
 YOUTUBE_CHANNEL_ID
 YOUTUBE_CLIENT_ID
@@ -17,7 +17,7 @@ FIREBASE_CONFIG_MEASUREMENTID
 
 GOOGLE_PRIVATE_KEY
 GOOGLE_CLIENT_EMAIL
-
+```
 ## download the credential file from google console.
 the structure would be like this:
 ```
